@@ -1,5 +1,5 @@
 # Pandas-Challenge
-**Analysis of fantasy game Heroes of Pymoli**
+# Analysis of fantasy game Heroes of Pymoli
 
 This game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. Generate a report that breaks down the game's purchasing data into meaningful insights. For the analysis and final report each of the following is created:
 
@@ -19,7 +19,7 @@ This game is free-to-play, but players are encouraged to purchase optional items
 
 **Most Profitable Items**: Five most profitable items by total purchase value is created and listed based on item Id, item name, purchase count, item price, and total purchase value.
 
-**Analysis of PyCity Schools**
+# Analysis of PyCity Schools
 
 Analysis of district-wide standardized test results of every student's math and reading scores, as well as various information, the schools they attend. Aggregating the data to showcase obvious trends in school performance.
 
